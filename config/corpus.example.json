@@ -1,0 +1,14 @@
+{
+  "documents": [
+    {
+      "id": "manuel-exemple",
+      "path": "data/raw/manuel.pdf",
+      "title": "Manuel autorisé à renseigner",
+      "version": "A-RENSEIGNER",
+      "family": "A-RENSEIGNER",
+      "allowed_roles": ["technician"],
+      "equipment_ids": ["REFERENCE-EXACTE"],
+      "authorized": false
+    }
+  ]
+}
